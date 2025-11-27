@@ -108,24 +108,9 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ---
 
-<div style="display:flex; align-items:flex-start; gap:20px;">
-
-  <div style="flex:3">
-    <strong>Description:</strong><br>
-    Developed computer vision algorithms covering: <br>
-    - Feature extraction: Harris detector, SIFT, HoG <br>
-    - Classification: digit classifier, Bag-of-Words, CNN classifier <br>
-    - Segmentation: Mean-Shift, simplified SegNet <br>
-    - 3D reconstruction: camera calibration, Structure from Motion, Multi-View Stereo <br>
-    - Object tracking <br><br>
-    <strong>Tech:</strong> Python, OpenCV
-  </div>
-
-  <div style="flex:1">
-    <img src="assets/Course_project_CV.png" width="300">
-  </div>
-
-</div>
+| Description | Image |
+|------------|-------|
+| Developed computer vision algorithms covering: <br>- Feature extraction: Harris detector, SIFT, HoG <br>- Classification: digit classifier, Bag-of-Words, CNN classifier <br>- Segmentation: Mean-Shift, simplified SegNet <br>- 3D reconstruction: camera calibration, Structure from Motion, Multi-View Stereo <br>- Object tracking <br><br>&nbsp; <br><br> **Tech:** Python, OpenCV | <img src="assets/Course_project_CV.png" width="300"> |
 
 ---
 
