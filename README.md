@@ -25,33 +25,9 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ---
 
-## Excavation Automation with Reinforcement Learning  
-**Master’s Thesis – Gravis Robotics, Zurich**
-
-| Description | Image |
-|------------|-------|
-| Developed a reinforcement learning control policy generalized across multiple excavator models. Tasks included physics-based simulation setup, scalable RL training, CI/CD integration, and testing in real-world scenarios. This allowed for automated excavation planning with minimal human intervention. <br><br> **Tech:** Python, RL, Gym, Isaac Gym, ROS | <img src="assets/Gravis_RL.png" width="300"> |
-
----
-
-## Cryptocurrency Trading with RL
-
-| Description | Image |
-|------------|-------|
-| Built an RL-based cryptocurrency trading pipeline. Responsibilities included data collection and preprocessing, PPO agent training, hyperparameter tuning, backtesting, and risk evaluation. The project focused on creating an adaptable system capable of trading multiple cryptocurrencies automatically. <br><br> **Tech:** Python, TensorFlow, Stable-Baselines3, Binance API | <img src="assets/Crypto_RL.png" width="300"> |
-
----
-
-## Swiss Legal NLP – RAG Pipeline
-
-| Description | Image |
-|------------|-------|
-| Implemented a Retrieval-Augmented Generation (RAG) pipeline for Swiss legal documents. The system parses, summarizes, and indexes legal decisions using GPT models combined with strict JSON schemas. Web scraping was performed to collect the legal texts. Chroma/HuggingFace embeddings were used for vector search, enabling fast and accurate retrieval of relevant cases. <br><br> **Tech:** Python, GPT APIs, ChromaDB, LangChain |  |
-
-
----
-
-## Neuropsychology Assessment Automation
+## Neuropsychology Analysis Automation  
+**Neuronormes – Geneva**  
+📅 06/2025 – Today
 
 | Description | Image |
 |------------|-------|
@@ -59,19 +35,59 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ---
 
-# Computer Vision Projects
-
----
-
-## Time Reading on Watches – Rolex
+## Swiss Legal Texts Processing  
+**Freelance – Geneva**  
+📅 05/2025 – 07/2025
 
 | Description | Image |
 |------------|-------|
-| Developed at Rolex during a six-month internship, this project aimed to create an algorithm capable of automatically reading the time on different Rolex watch models. Deep learning methods, along with image pre- and post-processing techniques, were used. Implementation details remain confidential due to a non-disclosure agreement. <br><br> **Tech:** Python, PyTorch, OpenCV | <img src="assets/Rolex_CV.png" width="300"> |
+| Implemented a Retrieval-Augmented Generation (RAG) pipeline for Swiss legal documents. The system parses, summarizes, and indexes legal decisions using GPT models combined with strict JSON schemas. Web scraping was performed to collect the legal texts. Chroma/HuggingFace embeddings were used for vector search, enabling fast and accurate retrieval of relevant cases. <br><br> **Tech:** Python, GPT APIs, ChromaDB, LangChain |  |
 
 ---
 
-## Tree Detection & Aerial Reconstruction (ICRA Publication)
+## RL for Cryptocurrency Trading  
+**Freelance – Asia, Remote**  
+📅 09/2024 – 05/2025
+
+| Description | Image |
+|------------|-------|
+| Built an RL-based cryptocurrency trading pipeline. Responsibilities included data collection and preprocessing, PPO agent training, hyperparameter tuning, backtesting, and risk evaluation. The project focused on creating an adaptable system capable of trading multiple cryptocurrencies automatically. <br><br> **Tech:** Python, TensorFlow, Stable-Baselines3, Binance API | <img src="assets/Crypto_RL.png" width="300"> |
+
+---
+
+## Application Development – Plant Watering App  
+**Ethenoz & Cie – Geneva**  
+📅 09/2024 – 05/2025
+
+| Description | Image |
+|------------|-------|
+| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="175"> |
+
+---
+
+## Master’s Thesis – Excavation Automation using RL  
+**Gravis – Zurich**  
+📅 10/2023 – 04/2024
+
+| Description | Image |
+|------------|-------|
+| Developed a reinforcement learning control policy generalized across multiple excavator models. Tasks included physics-based simulation setup, scalable RL training, CI/CD integration, and testing in real-world scenarios. This allowed for automated excavation planning with minimal human intervention. <br><br> **Tech:** Python, RL, Gym, Isaac Gym, ROS | <img src="assets/Gravis_RL.png" width="300"> |
+
+---
+
+## Internship – Computer Vision Project Manager  
+**Rolex – Geneva**  
+📅 02/2023 – 08/2023
+
+| Description | Image |
+|------------|-------|
+| Developed deep learning and image processing solutions for precision watch component analysis. Managed the complete project lifecycle from planning to implementation. Presented progress and results during internal meetings. <br><br> **Tech:** Python, PyTorch, OpenCV | <img src="assets/Rolex_CV.png" width="300"> |
+
+---
+
+## Computer Vision for Agriculture – Tree Detection & Aerial Reconstruction  
+**Unity3D & V4RL – ETH Zurich**  
+📅 10/2022 – 03/2023
 
 | Description | Image |
 |------------|-------|
@@ -79,7 +95,12 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ---
 
-## ETH ML Course Projects
+# Student Projects
+
+---
+
+## Machine Learning Projects (ETH)  
+📅 02/2022 – 05/2022
 
 | Description | Image |
 |------------|-------|
@@ -87,7 +108,8 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ---
 
-## ETH CV Course Projects
+## Computer Vision Projects (ETH)  
+📅 09/2021 – 12/2021
 
 | Description | Image |
 |------------|-------|
@@ -96,14 +118,6 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 ---
 
 # Other Technical Projects
-
----
-
-## React Native Plant-Watering App
-
-| Description | Image |
-|------------|-------|
-| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="175"> |
 
 ---
 
@@ -131,7 +145,6 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 **Robotics & Simulation:** Isaac Gym, Gymnasium, ROS  
 **Tools & DevOps:** Docker, CUDA, Git, Azure  
 **Domains:** RL, CV, NLP/RAG, Web Scraping, Simulation, Robotics Systems
-
 
 ---
 
