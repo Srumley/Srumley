@@ -31,7 +31,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. Front-end development was assisted by **GitHub Copilot** and **Cursor** for faster prototyping and implementation. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, React, Docker | <img src="assets/Neuropsy_prog.png" width="500"> |
+| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. Front-end development was assisted by GitHub Copilot and Cursor for faster prototyping and implementation. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, React, Docker | <img src="assets/Neuropsy_prog.png" width="500"> |
 
 ---
 
@@ -61,7 +61,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. Front-end development leveraged **Copilot** and **Cursor** to accelerate UI implementation. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="300"> |
+| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. Front-end development leveraged Copilot and Cursor to accelerate UI implementation. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="300"> |
 
 ---
 
