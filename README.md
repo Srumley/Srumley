@@ -1,4 +1,4 @@
-# Hi, I'm Simon Rumley  
+# Simon Rumley  
 ### Machine Learning & Robotics Engineer (ETH Zürich & EPFL)
 
 I build intelligent systems in **robotics**, **reinforcement learning**, **computer vision**, and **AI-driven automation**.  
@@ -46,7 +46,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Implemented a Retrieval-Augmented Generation (RAG) pipeline for Swiss legal documents. The system parses, summarizes, and indexes legal decisions using GPT models combined with strict JSON schemas. Chroma/HuggingFace embeddings were used for vector search, enabling fast and accurate retrieval of relevant cases. <br><br> **Tech:** Python, GPT APIs, ChromaDB, LangChain, FastAPI | <img src="assets/Appli_Ethenoz.png" width="300"> |
+| Implemented a Retrieval-Augmented Generation (RAG) pipeline for Swiss legal documents. The system parses, summarizes, and indexes legal decisions using GPT models combined with strict JSON schemas. Chroma/HuggingFace embeddings were used for vector search, enabling fast and accurate retrieval of relevant cases. <br><br> **Tech:** Python, GPT APIs, ChromaDB, LangChain, FastAPI |  |
 
 ---
 
