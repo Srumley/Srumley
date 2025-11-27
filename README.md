@@ -91,7 +91,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Estimated the location of trees in an orchard using ground-based cameras and AI to reconstruct aerial views. Developed an algorithm generating multiple virtual orchard configurations and configured camera navigation for capturing image pairs. A neural network was trained on these pairs to predict aerial views from ground perspectives. A scientific paper was published at ICRA ([PDF](https://imrclab.github.io/workshop-uav-sims-icra2023/papers/RS4UAVs_paper_9.pdf)). <br><br> **Tech:** Python, C++, OpenCV, PyTorch | <img src="assets/Orchard_CV.png" width="300"> |
+| Estimated the location of trees in an orchard using ground-based cameras and AI to reconstruct aerial views. Developed an algorithm generating multiple virtual orchard configurations and configured camera navigation for capturing image pairs. A neural network was trained on these pairs to predict aerial views from ground perspectives. A scientific paper was published at ICRA ([PDF](https://imrclab.github.io/workshop-uav-sims-icra2023/papers/RS4UAVs_paper_9.pdf)). <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** Python, C++, OpenCV, PyTorch | <img src="assets/Orchard_CV.png" width="300"> |
 
 ---
 
