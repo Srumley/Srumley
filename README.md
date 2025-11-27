@@ -31,7 +31,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, Docker | <img src="assets/Neuropsy_prog.png" width="500"> |
+| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. Front-end development was assisted by **GitHub Copilot** and **Cursor** for faster prototyping and implementation. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, React, Docker | <img src="assets/Neuropsy_prog.png" width="500"> |
 
 ---
 
@@ -61,7 +61,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="300"> |
+| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. Front-end development leveraged **Copilot** and **Cursor** to accelerate UI implementation. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="300"> |
 
 ---
 
@@ -91,7 +91,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Estimated the location of trees in an orchard using ground-based cameras and AI to reconstruct aerial views. Developed an algorithm generating multiple virtual orchard configurations and configured camera navigation for capturing image pairs. A neural network was trained on these pairs to predict aerial views from ground perspectives. A scientific paper was published at ICRA ([PDF](https://imrclab.github.io/workshop-uav-sims-icra2023/papers/RS4UAVs_paper_9.pdf)). <br><br> ;**Tech:** Python, C++, OpenCV, PyTorch | <img src="assets/Orchard_CV.png" width="300"> |
+| Estimated the location of trees in an orchard using ground-based cameras and AI to reconstruct aerial views. Developed an algorithm generating multiple virtual orchard configurations and configured camera navigation for capturing image pairs. A neural network was trained on these pairs to predict aerial views from ground perspectives. A scientific paper was published at ICRA ([PDF](https://imrclab.github.io/workshop-uav-sims-icra2023/papers/RS4UAVs_paper_9.pdf)). <br><br> **Tech:** Python, C++, OpenCV, PyTorch | <img src="assets/Orchard_CV.png" width="300"> |
 
 ---
 
@@ -110,7 +110,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed computer vision algorithms covering: <br>- Feature extraction: Harris detector, SIFT, HoG <br>- Classification: digit classifier, Bag-of-Words, CNN classifier <br>- Segmentation: Mean-Shift, simplified SegNet <br>- 3D reconstruction: camera calibration, Structure from Motion, Multi-View Stereo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>- Object tracking <br><br> <br><br> **Tech:** Python, OpenCV | <img src="assets/Course_project_CV.png" width="150"> |
+| Developed computer vision algorithms covering: <br>- Feature extraction: Harris detector, SIFT, HoG <br>- Classification: digit classifier, Bag-of-Words, CNN classifier <br>- Segmentation: Mean-Shift, simplified SegNet <br>- 3D reconstruction: camera calibration, Structure from Motion, Multi-View Stereo <br>- Object tracking <br><br> **Tech:** Python, OpenCV | <img src="assets/Course_project_CV.png" width="150"> |
 
 ---
 
@@ -138,7 +138,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 **Languages:** Python, C/C++, Matlab, JS, LaTeX  
 **ML/AI:** PyTorch, TensorFlow, Stable-Baselines3, HuggingFace, Sklearn, OpenAI GPT, Whisper API  
-**Web & Backend:** Flask, FastAPI, React, React Native, MongoDB, Firebase, Azure Container Apps  
+**Web & Backend:** Flask, FastAPI, React, React Native (front-end assisted by Copilot & Cursor), MongoDB, Firebase, Azure Container Apps  
 **Robotics & Simulation:** Isaac Gym, Gymnasium, ROS  
 **Tools & DevOps:** Docker, CUDA, Git, Azure  
 **Domains:** RL, CV, NLP/RAG, Web Scraping, Simulation, Robotics Systems
@@ -153,4 +153,4 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ---
 
-*If you’re interested in ML/robotics collaboration or freelance work, feel free to reach out!*
+*If you’re interested in ML/robotics collaboration or freelance work, feel free to reach out!*  
