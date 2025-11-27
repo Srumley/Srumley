@@ -8,7 +8,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## About Me
 
-- **Master in Robotics – ETH Zurich**  
+- **Master in Robotics/Mechanical engineering – ETH Zurich**  
   Focus on ML, optimal control, computer vision & autonomous systems.
 
 - **Machine Learning / AI Engineer**  
@@ -46,7 +46,8 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Implemented a Retrieval-Augmented Generation (RAG) pipeline for Swiss legal documents. The system parses, summarizes, and indexes legal decisions using GPT models combined with strict JSON schemas. Chroma/HuggingFace embeddings were used for vector search, enabling fast and accurate retrieval of relevant cases. <br><br> **Tech:** Python, GPT APIs, ChromaDB, LangChain, FastAPI |  |
+| Implemented a Retrieval-Augmented Generation (RAG) pipeline for Swiss legal documents. The system parses, summarizes, and indexes legal decisions using GPT models combined with strict JSON schemas. Web scraping was performed to collect the legal texts. Chroma/HuggingFace embeddings were used for vector search, enabling fast and accurate retrieval of relevant cases. <br><br> **Tech:** Python, GPT APIs, ChromaDB, LangChain |  |
+
 
 ---
 
@@ -54,7 +55,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed a full-stack web app for automated neuropsychological report generation. Features include real-time psychometric data visualization and interactive dashboards. The app integrates GPT models and vector search to provide actionable insights for clinicians. <br><br> **Tech:** React, Firebase, FastAPI, GPT models, vector search | <img src="assets/Neuropsy_prog.png" width="300"> |
+| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, Docker | <img src="assets/Neuropsy_prog.png" width="300"> |
 
 ---
 
@@ -74,7 +75,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Estimated the location of trees in an orchard using ground-based cameras and AI to reconstruct aerial views. Developed an algorithm generating multiple virtual orchard configurations and configured camera navigation for capturing image pairs. A neural network was trained on these pairs to predict aerial views from ground perspectives. A scientific paper was published at ICRA. <br><br> **Tech:** Python, C++, OpenCV, PyTorch | <img src="assets/Orchard_CV.png" width="300"> |
+| Estimated the location of trees in an orchard using ground-based cameras and AI to reconstruct aerial views. Developed an algorithm generating multiple virtual orchard configurations and configured camera navigation for capturing image pairs. A neural network was trained on these pairs to predict aerial views from ground perspectives. A scientific paper was published at ICRA ([PDF](https://imrclab.github.io/workshop-uav-sims-icra2023/papers/RS4UAVs_paper_9.pdf)). <br><br> **Tech:** Python, C++, OpenCV, PyTorch | <img src="assets/Orchard_CV.png" width="300"> |
 
 ---
 
@@ -125,10 +126,12 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 # Tech Stack
 
 **Languages:** Python, C/C++, Matlab, JS, LaTeX  
-**ML/AI:** PyTorch, TensorFlow, SB3, HuggingFace, Sklearn   
-**Robotics:** Isaac Gym, Gymnasium, ROS  
-**Tools:** Docker, CUDA, Git, Azure, Firebase  
-**Domains:** RL, CV, NLP/RAG, Simulation, Robotics Systems
+**ML/AI:** PyTorch, TensorFlow, Stable-Baselines3, HuggingFace, Sklearn, OpenAI GPT, Whisper API  
+**Web & Backend:** Flask, FastAPI, React, React Native, MongoDB, Firebase, Azure Container Apps  
+**Robotics & Simulation:** Isaac Gym, Gymnasium, ROS  
+**Tools & DevOps:** Docker, CUDA, Git, Azure  
+**Domains:** RL, CV, NLP/RAG, Web Scraping, Simulation, Robotics Systems
+
 
 ---
 
@@ -136,7 +139,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 **Email:** rumley.sim@gmail.com  
 **GitHub:** https://github.com/Srumley  
-**LinkedIn:** *(add your link)*  
+**LinkedIn:** *www.linkedin.com/in/simon-rumley-506a0420a*  
 
 ---
 
