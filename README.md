@@ -27,7 +27,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## Neuropsychology Analysis Automation  
 **Neuronormes – Geneva**  
-📅 06/2025 – Today
+06/2025 – Today
 
 | Description | Image |
 |------------|-------|
@@ -37,7 +37,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## Swiss Legal Texts Processing  
 **Freelance – Geneva**  
-📅 05/2025 – 07/2025
+05/2025 – 07/2025
 
 | Description | Image |
 |------------|-------|
@@ -47,7 +47,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## RL for Cryptocurrency Trading  
 **Freelance – Asia, Remote**  
-📅 09/2024 – 05/2025
+09/2024 – 05/2025
 
 | Description | Image |
 |------------|-------|
@@ -57,7 +57,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## Application Development – Plant Watering App  
 **Ethenoz & Cie – Geneva**  
-📅 09/2024 – 05/2025
+09/2024 – 05/2025
 
 | Description | Image |
 |------------|-------|
@@ -67,7 +67,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## Master’s Thesis – Excavation Automation using RL  
 **Gravis – Zurich**  
-📅 10/2023 – 04/2024
+10/2023 – 04/2024
 
 | Description | Image |
 |------------|-------|
@@ -77,7 +77,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## Internship – Computer Vision Project Manager  
 **Rolex – Geneva**  
-📅 02/2023 – 08/2023
+02/2023 – 08/2023
 
 | Description | Image |
 |------------|-------|
@@ -87,7 +87,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 ## Computer Vision for Agriculture – Tree Detection & Aerial Reconstruction  
 **Unity3D & V4RL – ETH Zurich**  
-📅 10/2022 – 03/2023
+10/2022 – 03/2023
 
 | Description | Image |
 |------------|-------|
@@ -100,7 +100,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 ---
 
 ## Machine Learning Projects (ETH)  
-📅 02/2022 – 05/2022
+02/2022 – 05/2022
 
 | Description | Image |
 |------------|-------|
@@ -109,7 +109,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 ---
 
 ## Computer Vision Projects (ETH)  
-📅 09/2021 – 12/2021
+09/2021 – 12/2021
 
 | Description | Image |
 |------------|-------|
