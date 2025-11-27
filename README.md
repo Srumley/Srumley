@@ -31,7 +31,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, Docker | <img src="assets/Neuropsy_prog.png" width="300"> |
+| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, Docker | <img src="assets/Neuropsy_prog.png" width="500"> |
 
 ---
 
@@ -61,7 +61,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="175"> |
+| Created a mobile app to manage plant watering schedules in cemeteries with real-time Firebase sync. Users can mark graves as watered directly on a map interface. Bluetooth and GPS were initially tested; a new study using UWB components is ongoing to reduce manual work for gardeners. <br><br> **Tech:** React Native, Firebase, JS | <img src="assets/Appli_Ethenoz.png" width="300"> |
 
 ---
 
@@ -113,7 +113,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed computer vision algorithms covering: <br>- Feature extraction: Harris detector, SIFT, HoG <br>- Classification: digit classifier, Bag-of-Words, CNN classifier <br>- Segmentation: Mean-Shift, simplified SegNet <br>- 3D reconstruction: camera calibration, Structure from Motion, Multi-View Stereo <br>- Object tracking <br><br> **Tech:** Python, OpenCV | <img src="assets/Course_project_CV.png" width="300"> |
+| Developed computer vision algorithms covering: <br>- Feature extraction: Harris detector, SIFT, HoG <br>- Classification: digit classifier, Bag-of-Words, CNN classifier <br>- Segmentation: Mean-Shift, simplified SegNet <br>- 3D reconstruction: camera calibration, Structure from Motion, Multi-View Stereo <br>- Object tracking <br><br> **Tech:** Python, OpenCV | <img src="assets/Course_project_CV.png" width="150"> |
 
 ---
 
