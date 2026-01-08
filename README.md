@@ -31,7 +31,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 
 | Description | Image |
 |------------|-------|
-| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. Front-end development was assisted by GitHub Copilot and Cursor for faster prototyping and implementation. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, React, Docker
+| Developed a full-stack clinical web application for automated neuropsychological assessment and report generation. Features include psychometric norm database search, real-time data visualization, audio transcription, conversation analysis, and AI-powered report generation with integrated GPT chatbot assistance. Front-end development was assisted by GitHub Copilot and Cursor for faster prototyping and implementation. <br><br> **Tech:** Flask, MongoDB, Azure Container Apps, OpenAI GPT-4, Whisper API, Python (Pandas, NumPy), python-docx, React, Docker | <img src="assets/SynApp.png" width="300"> |
 
 ---
 
