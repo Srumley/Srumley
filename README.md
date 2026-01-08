@@ -26,7 +26,7 @@ My work spans real-world ML deployments, full-stack AI products, and applied res
 ---
 
 ## Neuropsychology Analysis Automation  
-**Neuronormes – Geneva**  
+**SynApp – Geneva**  
 06/2025 – Today
 
 | Description | Image |
